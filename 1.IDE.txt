@@ -1,0 +1,21 @@
+What Is a Code Editor and IDE?
+-A code editor is any application that allows you to edit code files. An IDE, or Integrated Development Environment, is a full application that allows you to compile, run, and debug your code while you edit it.
+
+Those are just a few examples of IDEs. Now, let's take a look at a few popular code editors.
+
+Visual Studio Code is a lightweight, open-source code editor by Microsoft that supports a wide range of programming languages and provides features like debugging, syntax highlighting, and version control through extensions.
+
+Another popular editor would be Sublime Text. Sublime Text is a fast, versatile text editor known for its sleek interface, powerful features, and support for a wide range of programming languages through customizable syntax highlighting and plugins.
+
+And another one is Notepad++. This is a free, open-source, text and source code editor for Windows that offers syntax highlighting, code folding, and a range of plugins to enhance productivity and customization.
+
+What is Cloud-based Editor?
+-A cloud-based editor is an online tool that allows users to write, edit, and manage code or text directly through a web browser without needing to install software locally.
+
+Let's take a look at a few cloud-based editors.
+
+Replit is an online platform that provides a collaborative environment for coding, allowing users to write, run, and share code in various programming languages directly from a web browser.
+
+Another popular cloud-based editor is GitHub Codespaces. This is a cloud-based development environment that provides instant access to a fully-configured code editor and development tools directly from GitHub, enabling seamless coding and collaboration.
+
+And another one is Ona. Ona is a cloud-based development environment that integrates with GitHub and GitLab, offering instant, customizable workspaces for coding, building, and debugging directly from your browser.
