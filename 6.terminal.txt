@@ -1,0 +1,10 @@
+What is command Line?
+-The command line is a basic text input interface which allows a user to enter "commands", usually in the form of a series of characters, and submit or execute them, usually by pressing the "Enter" key. You will most-commonly see command line interfaces within a terminal.
+
+What is Terminal?
+-A terminal is a special application that offers a command line interface to perform system-level commands beyond the basic read/write operations. You may also hear about "terminal emulators", which are essentially applications that wrap a basic terminal interface to offer additional features or functionality. But for most general purposes, you are probably safe to refer to these as "terminals" as well.
+
+what is shell?
+-A shell is the software that wraps the command line and interprets your inputs as commands, returning the output.
+
+Different os have different types of terminal which you can choose to use it.
